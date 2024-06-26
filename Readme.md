@@ -1,10 +1,10 @@
 # COMPUTER CASE LIGHTING
 
-Bu masaüstü uygulaması ile bilgisayar kasası ve monitorüne yerleştirdiğimiz aydınlatmalar kontrol edilmektedir.
+With this desktop application, the lighting we place on the computer case and monitor is controlled.
 
 ## Introduction
 
-Masaüstü uygulaması arduino ile hazırlanmış olan aydınlatma kontrol devresine seri port üzerinden bağlanarak ledleri kontrol etmektedir. Bu uygulama ile aydınlatmalar farklı modlara göre çalıştırılabilmektedir. Sese göre aydınlatmalar çalıştırılabilir veya arayüz kullanılarak kasaya bağlı olan fanların kontrolü sağlanabilir.
+The desktop application controls the LEDs by connecting to the lighting control circuit prepared with arduino via the serial port. With this application, the lighting can be operated according to different modes. Lighting can be activated according to the sound or control of the fans connected to the computer case can be provided using the interface.
 
 ## Screenshots
 
