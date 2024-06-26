@@ -1,4 +1,4 @@
-# COMPUTER CASE LIGHTING
+# COMPUTER CASE LIGHTING DESKTOP APPLICATION
 
 With this desktop application, the lighting we place on the computer case and monitor is controlled.
 
